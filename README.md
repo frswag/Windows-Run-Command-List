@@ -5,7 +5,7 @@ List of Windows Run Commands. Let me know if I forgot any major ones.
 
 # Content  
 * System related commands  
-* Application related commands
+* File related commands
 
 <br>
 
